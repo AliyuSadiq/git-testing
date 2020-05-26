@@ -7,6 +7,7 @@ namespace GitTutorial
         static void Main(string[] args)
         {
             Console.WriteLine("Application complete!");
+            Console.WriteLine("user authentication has been added");
         }
     }
 }
